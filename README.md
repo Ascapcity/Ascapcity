@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- long-term-video-datasets:start -->
-## Long-Term Video Reasoning Resources
 
-### [Helpful Long-Term Video Datasets Are You Need For VLM/MLLM Reasoning](https://github.com/Ascapcity/Helpful-Long-Term-Video-Datasets)
-
-An English collection of **94 dataset and benchmark records across seven categories**, with content descriptions, qualified duration statistics, suggested applications, access notes, and primary-source links.
-
-Topics include industrial procedures, egocentric activities, robotics, medical and laboratory workflows, execution errors and safety, emerging benchmarks, and long-video streaming assistance.
-
-Includes JSON/CSV exports and a methodology guide that distinguishes long recordings from multi-step reasoning, short diagnostic clips, and memory spans.
-<!-- long-term-video-datasets:end -->
