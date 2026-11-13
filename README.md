@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <!-- long-term-video-datasets:start -->
 😄 NEWS !!! 
+
 🔥🔥🔥
 ## Long-Term Video Reasoning Resources
 
@@ -32,7 +33,7 @@ Includes JSON/CSV exports and a methodology guide that distinguishes long record
 
 <!-- unified-player:start -->
 🔥🔥🔥
-## HTML Video Annotation Player
+## 🌱 HTML Video Annotation Player
 
 ### [Unified Video Annotation Player](https://github.com/Ascapcity/Unified-Player-For-Muti-Datasets)
 
