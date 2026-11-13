@@ -29,3 +29,11 @@ Topics include industrial procedures, egocentric activities, robotics, medical a
 
 Includes JSON/CSV exports and a methodology guide that distinguishes long recordings from multi-step reasoning, short diagnostic clips, and memory spans.
 <!-- long-term-video-datasets:end -->
+
+<!-- unified-player:start -->
+### [Unified Video Annotation Player](https://github.com/Ascapcity/Unified-Player-For-Muti-Datasets)
+
+A standalone browser player for synchronized video annotations across multiple datasets.
+
+It supports automatic format detection for JSON, JSONL, CSV, and TSV files, temporal intervals, timestamps, frame indices, bounding boxes, relations, and English drag-and-drop upload. The player runs entirely in the browser without a backend.
+<!-- unified-player:end -->
